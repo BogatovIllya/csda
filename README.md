@@ -1,2 +1,3 @@
-# csda
-LAB_APKS
+Bohatov Illia Serhiyovich
+KI-408
+variant 1
